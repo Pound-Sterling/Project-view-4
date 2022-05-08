@@ -1,0 +1,64 @@
+/* MULISH */
+
+@font-face {
+    font-family: "Mulish-Light";
+    font-style: normal;
+    font-weight: 300;
+    src: 
+         url("./fonts/Mulish/Mulish-Light.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Mulish-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: 
+         url("./fonts/Mulish/Mulish-Regular.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Mulish-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: 
+         url("./fonts/Mulish/Mulish-Bold.ttf") format('truetype');
+}
+
+/* INTER */
+
+@font-face {
+    font-family: "Inter-Regular";
+    font-style: normal;
+    font-weight: 400;
+    src: 
+         url("./fonts/Inter/Inter-Regular.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Inter-Medium";
+    font-style: normal;
+    font-weight: 500;
+    src: 
+         url("./fonts/Inter/Inter-Medium.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Inter-Semibold";
+    font-style: normal;
+    font-weight: 600;
+    src: 
+         url("./fonts/Inter/Inter-SemiBold.ttf") format('truetype');
+}
+@font-face {
+    font-family: "Inter-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: 
+         url("./fonts/Inter/Inter-Bold.ttf") format('truetype');
+}
+
+/* PLAYFAIR DISPLAY */
+
+@font-face {
+    font-family: "Playfair-Bold";
+    font-style: normal;
+    font-weight: 700;
+    src: 
+         url("./fonts/Playfair_Display/PlayfairDisplay-Bold.ttf") format('truetype');
+}
